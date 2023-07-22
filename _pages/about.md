@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
 Jochen is a financial services professional with a passion for Payments and Core Banking. 
