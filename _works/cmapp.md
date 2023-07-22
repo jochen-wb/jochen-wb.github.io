@@ -2,12 +2,12 @@
 title: "Cash Management App"
 excerpt: "Mobile solution for corporate customers"
 header:
-    teaser: /assets/images/globe_sw.jpg
+    teaser: /assets/images/prototyping_sw.jpg
 sort_key: 2012-01
 sidebar:
   - title: "Client"
     text: "Global financial services company, Frankfurt"
-    image: /assets/images/globe_sw.jpg
+    image: /assets/images/prototyping_sw.jpg
   - title: "Date"
     text: "01/2012 - 12/2013"
   - title: "Role"
