@@ -1,6 +1,6 @@
 ---
 title: "SAP Core Banking"
-excerpt: "Replacement of a mainframe based core banking system with SAP"
+excerpt: "Replacement of a mainframe based core banking system"
 header:
     teaser: /assets/images/register_sw.jpg
 sort_key: 2009-10
@@ -10,12 +10,12 @@ sidebar:
   - title: "Date"
     text: "10/2009 - 03/2011"
   - title: "Role"
-    text: "IT Consultant Payments and Output Management"
+    text: "Business & IT Consultant for Payments and Output Management"
   - title: "Technologies/Tools"
     text: "SAP Banking Services, Deposits Management"
 ---
 
-Replacement of a mainframe-based legacy application with SAP Banking under the client's global core banking strategy.
+Replacement of a mainframe legacy application by SAP Banking under the client's global core banking strategy.
 
 ### Approach
 
