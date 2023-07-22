@@ -43,7 +43,7 @@ include:
   - _pages
 
 collections:
-  _works:
+  works:
     output: true
 
 # Exclude from processing.
