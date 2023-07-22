@@ -2,8 +2,8 @@
 title: "SAP Core Banking"
 excerpt: "Replacement of a mainframe based core banking system with SAP"
 header:
-    image: /assets/images/register_sw.jpg
-date: 2009-10-01
+    teaser: /assets/images/register_sw.jpg
+sort_key: 2009-10
 sidebar:
   - title: "Customer"
     text: "WestLB"
