@@ -3,17 +3,17 @@ title: "Cash Management App"
 excerpt: "Mobile solution for corporate customers"
 header:
     teaser: /assets/images/prototyping_sw.jpg
-sort_key: 2012-01
+sort_key: 2014-10
 sidebar:
   - title: "Client"
     text: "Global financial services company, Frankfurt"
     image: /assets/images/prototyping_sw.jpg
   - title: "Date"
-    text: "01/2012 - 12/2013"
+    text: "10/2014 - 06/2015"
   - title: "Role"
     text: "IT-Consultant and Product Owner"
   - title: "Technologies/Tools"
-    text: "IBM Websphere Application Server, Oracle DB"
+    text: "iOS, Android, Adobe PhoneGap"
 ---
 
 The Cash Management app enables mobile access to account information and has been developed in parallel for the iOS and Android platform under the client’s Cross Channel Banking/Digital Strategy program.
