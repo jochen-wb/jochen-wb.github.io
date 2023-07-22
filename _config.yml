@@ -45,6 +45,7 @@ include:
 collections:
   works:
     output: true
+    permalink: /:collection/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -115,8 +116,8 @@ defaults:
       author_profile: false
   # _works
   - scope:
-      path: "_works"
-      type: pages
+      path: ""
+      type: works
     values:
       layout: single
       author_profile: false
