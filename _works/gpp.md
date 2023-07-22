@@ -6,7 +6,7 @@ header:
 sort_key: 2012-01
 sidebar:
   - title: "Client"
-    text: "Commerzbank AG, Frankfurt"
+    text: "Global financial services company, Frankfurt"
   - title: "Date"
     text: "01/2012 - 12/2013"
   - title: "Role"

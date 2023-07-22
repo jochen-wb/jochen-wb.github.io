@@ -6,7 +6,8 @@ header:
 sort_key: 2009-10
 sidebar:
   - title: "Client"
-    text: "WestLB, Düsseldorf"
+    text: "Regional financial services company, Düsseldorf"
+    image: /assets/images/register_sw.jpg
   - title: "Date"
     text: "10/2009 - 03/2011"
   - title: "Role"
