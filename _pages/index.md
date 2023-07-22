@@ -1,4 +1,5 @@
 ---
+permalink: /
 layout: single
 title: Home
 classes: wide
