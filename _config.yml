@@ -13,14 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Refer to https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+
 title: Jochen Wurstbauer
+title_separator: "|"
+name: Jochen Wurstbauer
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: jochen-wb
+  Jochen Wurstbauer is a financial services professional with a 
+  passion for Payments and Core Banking. He has 15+ years of 
+  experience as a Business & IT-Consultant and Technical Product
+  Owner with a proven track record of delivering large, complex 
+  programs for established market leaders as well as Fintechs.
+logo: "/assets/images/logo.png"
 minimal_mistakes_skin: default
 search: true
 
@@ -57,23 +63,18 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Default site author
 author:
   name   : "Jochen Wurstbauer"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/avatar-jochen.jpg"
+  # bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://jochen-wb.github.io"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/jochenwurstbauer"
 
 footer:
   links:
@@ -87,6 +88,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# Front Matter defaults
 defaults:
   # _posts
   - scope:
