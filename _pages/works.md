@@ -8,4 +8,6 @@ show_excerpts: true
 classes: wide
 ---
 
-Sample document listing for the collection `_works`.
+Below is an overview of selected project references in recent years. 
+
+My complete project history is available on request. Please contact me!

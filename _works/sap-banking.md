@@ -1,11 +1,21 @@
 ---
 title: "SAP Core Banking"
 excerpt: "Replacement of a mainframe based core banking system with SAP"
-customer: WestLB, Düsseldorf
-date-from: 10/2009
-date-to: 03/2011
-role: IT Consultant Payments and Output Management
-tools: SAP Banking Services, Deposits Management
+header:
+    image: /assets/register_sw.jpg
+date: 2009-10-01
+sidebar:
+  - title: "Customer"
+    text: "WestLB"
+    image: /assets/register_sw.jpg
+  - title: "Date"
+    text: "10/2009 - 03/2011"
+  - title: "Role"
+    text: "IT Consultant Payments and Output Management"
+  - title: "Technologies/Tools"
+    text: "SAP Banking Services, Deposits Management"
 ---
 
 # Replacement of a mainframe based core banking system with SAP
+
+Short project description comes here
