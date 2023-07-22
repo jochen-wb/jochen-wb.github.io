@@ -12,7 +12,7 @@ sidebar:
   - title: "Role"
     text: "IT-Consultant and Product Owner"
   - title: "Technologies/Tools"
-    text: "SAP Banking Services, Deposits Management"
+    text: "IBM Websphere Application Server, Oracle DB"
 ---
 
 Multibank-capable web application for international corporate clients on the basis of the Electronic Banking Internet Communication Standard (EBICS). Winner of the “Best Solution Innovation Award" in 2014.
