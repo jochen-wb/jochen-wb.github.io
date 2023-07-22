@@ -1,3 +1,5 @@
+# Refer to https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -13,8 +15,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-# Refer to https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 
 title: Jochen Wurstbauer
 title_separator: "|"
@@ -67,26 +67,27 @@ plugins:
 author:
   name   : "Jochen Wurstbauer"
   avatar : "/assets/images/avatar-jochen.jpg"
-  # bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "ISO 20022 Payments and Core Banking Enthusiast."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jochen-wb.github.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/jochenwurstbauer"
+      url: "https://www.linkedin.com/in/jochenwurstbauer"
+    - label: "Xing"
+      icon: "fab fa-fw fa-xing-square"
+      url: "https://www.xing.com/profile/Jochen_Wurstbauer/"
 
+# Footer settings
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jochenwurstbauer"
+    - label: "Xing"
+      icon: "fab fa-fw fa-xing-square"
+      url: "https://www.xing.com/profile/Jochen_Wurstbauer/"
 
 # Front Matter defaults
 defaults:
