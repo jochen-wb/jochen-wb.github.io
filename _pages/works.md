@@ -10,7 +10,7 @@ sort_order: reverse
 classes: wide
 ---
 
-Below is an overview of selected project references in recent years.
+First-class customers, innovative projects and sustainable results. Below is an overview of selected project references in recent years.
 
-My complete project history and customer testimonials are available on request. Please get in touch!
+My complete project history and testimonials are available on request. Please get in touch!
 {: .notice--info}
