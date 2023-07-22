@@ -7,6 +7,7 @@ sort_key: 2012-01
 sidebar:
   - title: "Client"
     text: "Global financial services company, Frankfurt"
+    image: /assets/images/globe_sw.jpg
   - title: "Date"
     text: "01/2012 - 12/2013"
   - title: "Role"
@@ -15,7 +16,10 @@ sidebar:
     text: "IBM Websphere Application Server, Oracle DB"
 ---
 
-Multibank-capable web application for international corporate clients on the basis of the Electronic Banking Internet Communication Standard (EBICS). Winner of the “Best Solution Innovation Award" in 2014.
+Multibank-capable web application for international corporate clients on the basis of the Electronic Banking Internet Communication Standard (EBICS).
+
+> “Best Solution Innovation Award", 2014
+> <cite><a href="https://treasury-management.com/">Treasury Management International</a></cite>
 
 ### Approach
 

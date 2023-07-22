@@ -7,6 +7,7 @@ sort_key: 2014-01
 sidebar:
   - title: "Client"
     text: "Global financial services company, Frankfurt"
+    image: /assets/images/prototyping1_sw.jpg
   - title: "Date"
     text: "01/2014 - 07/2014"
   - title: "Role"

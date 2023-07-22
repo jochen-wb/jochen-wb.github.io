@@ -7,6 +7,7 @@ sort_key: 2014-08
 sidebar:
   - title: "Client"
     text: "Global financial services company, Frankfurt"
+    image: /assets/images/clock_sw.jpg
   - title: "Date"
     text: "08/2014 - 10/2014"
   - title: "Role"
