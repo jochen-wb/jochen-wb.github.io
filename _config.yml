@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Owner with a proven track record of delivering large, complex 
   programs for established market leaders as well as Fintechs.
 logo: "/assets/images/logo.png"
+masthead_title: ""
 minimal_mistakes_skin: default
 search: true
 
